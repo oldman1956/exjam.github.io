@@ -1,0 +1,19 @@
+# Site settings
+title: exj.am
+email: james@exj.am
+description: > # this means to ignore newlines until "baseurl:"
+  lazy programmer occasionally posts about his life
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://exj.am" # the base hostname & protocol for your site
+twitter_username: exjam_
+github_username:  exjam
+
+# Build settings
+markdown: kramdown
+
+puush_gallery:
+  dir: /_puush
+  url: /images/puush
+  thumb_width: 150
+  thumb_height: 150
+  columns: 4
